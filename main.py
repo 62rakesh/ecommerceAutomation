@@ -1,19 +1,10 @@
-# print("It's a practice end-to-end automation framework")
-import logging
+import random
 
-
-def log():
-    logging.basicConfig(level=logging.INFO,
-                        format='%(asctime)s: %(levelname)s: %(message)s',
-                        datefmt='%m/%d/%Y %H:%M:%S %p',
-                        filename=".\\Logs\\automation.log",
-                        )
-    return logging.getLogger()
-
-
-logger = log()
-logger.info("This is an info message.")
-logger.debug("This is a debug message.")
-
-
-
+letters = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n",
+           "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z", ]
+email = ''
+for i in range(7):
+    letter = random.sample(letters, 1)[0]
+    email += letter
+email += '@gmail.com'
+print(email)

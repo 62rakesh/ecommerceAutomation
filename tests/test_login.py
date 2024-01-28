@@ -11,7 +11,7 @@ class Test_01_Login:
     def test_loginPageTitle(self):
         self.logs.info("login page title verification is started")
         act_title = self.driver.title
-        if act_title == "Your store. Logins":
+        if act_title == "Your store. Login":
             print(act_title)
             self.logs.info("This test is passed")
             assert True
