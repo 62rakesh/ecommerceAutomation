@@ -174,3 +174,55 @@
 28:01:24 04::17::56 PM: INFO: test_addCustomer: test_addCustomer: checkbox is selected successfully:
 28:01:24 04::18::04 PM: INFO: test_addCustomer: test_addCustomer: customer role is selected:
 28:01:24 04::18::11 PM: INFO: test_addCustomer: test_addCustomer: A new customer is created successfully:
+28:01:24 10::29::17 PM: INFO: test_addCustomer: test_addCustomer: userLogin verification started:
+28:01:24 10::29::17 PM: INFO: test_addCustomer: test_addCustomer: userLogin verification started:
+28:01:24 10::29::17 PM: INFO: test_addCustomer: test_addCustomer: user entered a correct emailID:
+28:01:24 10::29::17 PM: INFO: test_addCustomer: test_addCustomer: user entered a correct emailID:
+28:01:24 10::29::17 PM: INFO: test_addCustomer: test_addCustomer: user entered a correct password:
+28:01:24 10::29::17 PM: INFO: test_addCustomer: test_addCustomer: user entered a correct password:
+28:01:24 10::29::17 PM: INFO: test_addCustomer: test_addCustomer: user clicked on the login button:
+28:01:24 10::29::17 PM: INFO: test_addCustomer: test_addCustomer: user clicked on the login button:
+28:01:24 10::29::28 PM: INFO: test_addCustomer: test_addCustomer: user is successfully logged in:
+28:01:24 10::29::28 PM: INFO: test_addCustomer: test_addCustomer: user is successfully logged in:
+28:01:24 10::29::28 PM: INFO: test_addCustomer: test_addCustomer: add customer verification is started:
+28:01:24 10::29::28 PM: INFO: test_addCustomer: test_addCustomer: add customer verification is started:
+28:01:24 10::29::30 PM: INFO: test_addCustomer: test_addCustomer: click on the customer link:
+28:01:24 10::29::30 PM: INFO: test_addCustomer: test_addCustomer: click on the customer link:
+28:01:24 10::29::33 PM: INFO: test_addCustomer: test_addCustomer: user navigates to the customer page:
+28:01:24 10::29::33 PM: INFO: test_addCustomer: test_addCustomer: user navigates to the customer page:
+28:01:24 10::29::38 PM: INFO: test_addCustomer: test_addCustomer: user clicked on the add new customer button:
+28:01:24 10::29::38 PM: INFO: test_addCustomer: test_addCustomer: user clicked on the add new customer button:
+28:01:24 10::29::40 PM: INFO: test_addCustomer: test_addCustomer: user enters a correct emailID:
+28:01:24 10::29::40 PM: INFO: test_addCustomer: test_addCustomer: user enters a correct emailID:
+28:01:24 10::29::41 PM: INFO: test_addCustomer: test_addCustomer: user enters a correct customer first name:
+28:01:24 10::29::41 PM: INFO: test_addCustomer: test_addCustomer: user enters a correct customer first name:
+28:01:24 10::29::42 PM: INFO: test_addCustomer: test_addCustomer: user enters the lastname:
+28:01:24 10::29::42 PM: INFO: test_addCustomer: test_addCustomer: user enters the lastname:
+28:01:24 10::29::43 PM: INFO: test_addCustomer: test_addCustomer: A correct password is entered:
+28:01:24 10::29::43 PM: INFO: test_addCustomer: test_addCustomer: A correct password is entered:
+28:01:24 10::29::44 PM: INFO: test_addCustomer: test_addCustomer: The customer gender is entered:
+28:01:24 10::29::44 PM: INFO: test_addCustomer: test_addCustomer: The customer gender is entered:
+28:01:24 10::29::47 PM: INFO: test_addCustomer: test_addCustomer: customer DOB is entered:
+28:01:24 10::29::47 PM: INFO: test_addCustomer: test_addCustomer: customer DOB is entered:
+28:01:24 10::29::49 PM: INFO: test_addCustomer: test_addCustomer: company name is entered:
+28:01:24 10::29::49 PM: INFO: test_addCustomer: test_addCustomer: company name is entered:
+28:01:24 10::29::52 PM: INFO: test_addCustomer: test_addCustomer: checkbox is selected successfully:
+28:01:24 10::29::52 PM: INFO: test_addCustomer: test_addCustomer: checkbox is selected successfully:
+28:01:24 10::29::59 PM: INFO: test_addCustomer: test_addCustomer: customer role is selected:
+28:01:24 10::29::59 PM: INFO: test_addCustomer: test_addCustomer: customer role is selected:
+28:01:24 10::30::06 PM: INFO: test_addCustomer: test_addCustomer: A new customer is created successfully:
+28:01:24 10::30::06 PM: INFO: test_addCustomer: test_addCustomer: A new customer is created successfully:
+28:01:24 10::30::14 PM: INFO: test_login: test_loginPageTitle: login page title verification is started:
+28:01:24 10::30::14 PM: INFO: test_login: test_loginPageTitle: login page title verification is started:
+28:01:24 10::30::14 PM: INFO: test_login: test_loginPageTitle: This test is passed:
+28:01:24 10::30::14 PM: INFO: test_login: test_loginPageTitle: This test is passed:
+28:01:24 10::30::26 PM: INFO: test_login: test_userLogin: userLogin verification started:
+28:01:24 10::30::26 PM: INFO: test_login: test_userLogin: userLogin verification started:
+28:01:24 10::30::26 PM: INFO: test_login: test_userLogin: user entered a correct emailID:
+28:01:24 10::30::26 PM: INFO: test_login: test_userLogin: user entered a correct emailID:
+28:01:24 10::30::26 PM: INFO: test_login: test_userLogin: user entered a correct password:
+28:01:24 10::30::26 PM: INFO: test_login: test_userLogin: user entered a correct password:
+28:01:24 10::30::26 PM: INFO: test_login: test_userLogin: user clicked on the login button:
+28:01:24 10::30::26 PM: INFO: test_login: test_userLogin: user clicked on the login button:
+28:01:24 10::30::37 PM: INFO: test_login: test_userLogin: user is successfully logged in:
+28:01:24 10::30::37 PM: INFO: test_login: test_userLogin: user is successfully logged in:
